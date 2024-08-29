@@ -40,7 +40,12 @@ def hello_world():
 @app.route('/api/problems')
 def list_problems():
     return jsonify(PROBLEMS)
-    
+
+
+@app.route('/template/home')
+def home():
+    return render_template('home.html')
+
 
 if __name__ == "__main__":
   app.run(host='0.0.0.0', debug=True)
