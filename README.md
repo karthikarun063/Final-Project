@@ -1,5 +1,6 @@
-
-![Logo](static/logo.png)
+<div style ="height:100px;object-fit:cover">
+  ![Logo](static/logo.png)
+</div>
 
 
 # Oplossing Solution
