@@ -35,3 +35,8 @@ if __name__ == '__main__': app.run(host='0.0.0.0', debug=True)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Contributors
+
+[![Contributors](https://img.shields.io/github/contributors/karthikarun063/Final-Project)](https://github.com/karthikarun063/Final-Project/graphs/contributors)
+
