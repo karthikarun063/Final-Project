@@ -1,4 +1,4 @@
-<div style ="height:100px;object-fit:cover">
+<div style ="height:100px;width:100%;">
   ![Logo](static/logo.png)
 </div>
 
