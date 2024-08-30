@@ -1,5 +1,5 @@
 <div >
-  ![Logo](static/logo.png)
+  <img src="static/logo.png">
 </div>
 
 
