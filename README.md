@@ -84,7 +84,7 @@ Oplossing Connect is released under the [MIT License](https://choosealicense.com
 
 ## Contributors
 
-Oplossing Connect is a collaborative effort, and the project has benefited from the contributions of many developers. You can view the list of contributors on the project's GitHub page:
+Oplossing Connect is a collaborative effort, and the project has benefited from the contributions of many developers.<br> You can view the list of contributors on the project's GitHub page:
 [![Contributors](https://img.shields.io/github/contributors/karthikarun063/Final-Project)](https://github.com/karthikarun063/Final-Project/graphs/contributors)
 
 ## Conclusion
